@@ -1,28 +1,33 @@
-# dawdawdaw
+# Readme Generator
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-dwadawdfaw
+This is an application that generates readme.md files.
 
 ## Table of Contents
 [Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
 
 ## Installation
-```dawdawd```
+```npm i```
 
 ## Usage
-dwadwad
+just npm i and enjoy :)
 
 ## License
-This project is licensed under the isc license
+This project is licensed under the MIT license
 
 ## Contributing
-dawdwa
+Fork the repo and submit a PR
 
 ## Tests
 To run tests, run the following command:
-```dawawdwa```
+```npm test```
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at [dawdawd](mailto:dawdawd). You can find mor of my work at [dwadawdwa](https://github.com/dwadawdwa)
+If you have any questions about the repo, open an issue or contact me directly at [heythereimdavidcurtis@gmail.com](mailto:heythereimdavidcurtis@gmail.com). You can find mor of my work at [DavidebCurtis](https://github.com/DavidebCurtis)
