@@ -1,14 +1,3 @@
-// const generateDescription = (descrptionText) => {
-//   if (!descrptionText) {
-//     return "";
-//   }
-
-//   return `
-//   # Description
-//   ${descrptionText}
-//   `;
-// };
-
 const generateLicense = (licenseText) => {
   if (licenseText == "MIT") {
     return `
@@ -60,5 +49,3 @@ If you have any questions about the repo, open an issue or contact me directly a
   }](https://github.com/${answer.githubname})
 `;
 };
-
-// ${generateDescription(description)}

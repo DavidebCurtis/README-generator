@@ -1,7 +1,6 @@
 const inquirer = require("inquirer");
 const generatePage = require("./src/README-template.js");
 const { writeFile } = require("./utils/generate-README.js");
-const fs = require("fs");
 
 const promptUser = () => {
   return inquirer.prompt([
