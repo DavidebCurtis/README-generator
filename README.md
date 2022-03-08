@@ -6,6 +6,10 @@
 
 This application is written to help people create readme files. upon running ` node index` You will be prompted to fill out some question to help build your readme. After completetion a readme file is created and placed in the distribution folder for you to use.
 
+### Check out the Demo here
+
+[![Alt text](./assets/DemoSS.png)](https://www.youtube.com/watch?v=ZFtbmmXXKmM)
+
 ## Table of Contents
 
 [Installation](#installation)
